@@ -10,7 +10,7 @@ A simple web application for express practicing
 ## Installation and execution
 1. Open terminal and clone this project.
 ```
-git clone 
+git clone https://github.com/smilelazybone/express_basic.git
 ```
 2. Entry the folder of this project in terminal.
 ```
